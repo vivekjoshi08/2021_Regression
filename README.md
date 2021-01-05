@@ -1,2 +1,2 @@
-# 2021_Regression
+# 2021_supervised learning
 Linear Regression
